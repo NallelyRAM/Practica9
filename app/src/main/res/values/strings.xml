@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica9</string>
+    <string name="mensaje">Google</string>
+    <string name="Login">Iniciar Sesión</string>
+</resources>
